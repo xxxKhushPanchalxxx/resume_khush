@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.intern {
+    background-color: blue;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 40px;
+}
+
+.projects {
+    background-color: blue;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 40px;
+}
+
+#educationT {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 35px;
+}
